@@ -1,0 +1,13 @@
+{
+    "name": "xingzhilantian/sinmore",
+    "description": "test descriptyion",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "yunjiduan",
+            "email": "niuxing@sinmore.com.cn"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "xingzhilantian/testone",
+    "description": "test composer one",
+    "authors": [
+        {
+            "name": "yunjiduan",
+            "email": "niuxing@sinmore.com.cn"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "xingkong\\composertest\\": "src/"
+        }
+    }
+}
